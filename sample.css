@@ -214,6 +214,19 @@
     margin-top: 10px;
 }
 
+
+
+.youtube iframe{
+    height: 300px;
+    width: 500px;
+    float: right;
+
+}
+/* .youtube img{
+    height: 300px;
+    width: 500px;
+    float: right;
+} */
 .pro-week .pic .quick-view {
     position: absolute;
     top: 5px;
@@ -450,6 +463,7 @@ a.cart {
         box-sizing: border-box;
     }
 }
+
 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
